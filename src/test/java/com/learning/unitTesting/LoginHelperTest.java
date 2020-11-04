@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class LoginHelperTests {
+public class LoginHelperTest {
 
     private static String validPassword_;
     private static String validUser_;

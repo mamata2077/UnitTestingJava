@@ -6,7 +6,7 @@ import static org.junit.Assert.assertNotNull;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class UserCreatorTests {
+public class UserCreatorTest {
     private static String validUser_;
     private static String validPassword_;
 
